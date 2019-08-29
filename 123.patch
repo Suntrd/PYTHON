@@ -1,0 +1,8 @@
+Index: Basic_Two/DayOne/123.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- Basic_Two/DayOne/123.py	(date 1567059206623)
++++ Basic_Two/DayOne/123.py	(date 1567059206623)
+@@ -0,0 +1,0 @@
